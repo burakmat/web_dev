@@ -1,0 +1,37 @@
+h2 {
+	text-align: center;
+	color: teal;
+	background-color: rgb(89, 151, 0);
+	text-decoration: rgb(0, 0, 0) line-through double;
+	letter-spacing: 10px;
+}
+
+button {
+	color: magenta;
+	background-color: aqua;
+	font-weight: 900;
+}
+
+body {
+	background-color: black;
+}
+
+p {
+	color: olive;
+	background-color: salmon;
+	line-height: 2;
+	font-size: 20px;
+	font-family: Papyrus;
+}
+
+a {
+	text-decoration: none;
+}
+
+b {
+	color: blue;
+}
+
+span {
+	color: black;
+}
